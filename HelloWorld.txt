@@ -1,0 +1,58 @@
+My Second assignment
+
+Hello World Application in Android with Two Activities
+
+Objective:
+To get familiar with Android Studio, the integrated development environment (IDE), and its interface by creating a basic "Hello World" application with two activities using Kotlin. Additionally, to explore and apply various widgets and ConstraintLayout properties.Description:
+In this assignment, you will create an Android application that consists of two activities. Each activity will display a unique message with different widgets and layout properties. The main goal is to help you become comfortable with Android Studio and its features, while also learning how to use various widgets and ConstraintLayout properties in Android.Requirements:
+
+•
+• Display a "Hello World" message using a TextView.
+• Include a Button that performs a simple action (e.g., display a toast message).
+• Include an ImageView to display an image.
+• Add a TextInputEditText that takes the parent width with some horizontal spacing.
+• Display a different message (e.g., "Welcome to Activity 2") using a TextView.
+• Include a Button that performs a different action.
+• Include an ImageView to display a different image.
+• Add a TextInputEditText that takes the parent width with some horizontal spacing.
+• Use ConstraintLayout for the layout of both activities.
+• Design a simple and clean user interface for both activities using TextView, Button, ImageView, and TextInputEditText.
+• Apply different text properties such as font size, color, and style to the TextView elements.
+• Ensure each activity displays its respective message and widgets clearly with customized properties.
+• Implement each activity to display the specified message with customized text properties.
+• Ensure that each activity functions independently without navigation between them.
+• Implement actions for the Button widgets (e.g., display a toast message).
+• Explore and apply various text properties including:
+• Font size
+• Font color
+• Font style (bold, italic)
+• Text alignment
+• Text background color
+• Use TextView to display text messages.
+• Use Button to perform actions.
+• Use ImageView to display images.
+• Use TextInputEditText to accept user input with parent width and some horizontal spacing.
+• Explore and apply various ConstraintLayout properties to arrange the widgets effectively.
+• Create a new project in Android Studio.
+• Use the layout editor to design the UI for both activities.
+• Write the necessary Kotlin code to implement the functionality.
+• Use the emulator or a physical device to test the application.
+• Understand basic concepts in the scaffold project such as inheritance and the use of super.
+• Record your entire development process using a screen recording tool.
+• Ensure your camera and microphone are on, providing a clear view of your coding environment and verbal explanations.
+• Explain each step you take, including creating the project, designing the UI, writing the code, and testing the application.
+• Use YouTube chapters to organize your explanations clearly.
+• Introduction
+• Project Setup in Android Studio
+• Designing UI for Activity 1
+• Implementing TextView Properties in Activity 1
+• Adding Button, ImageView, and TextInputEditText in Activity 1
+• Designing UI for Activity 2
+• Implementing TextView Properties in Activity 2
+• Adding Button, ImageView, and TextInputEditText in Activity 2
+• Testing the Application
+• Conclusion
+•  Upload the recorded video to YouTube and ensure it is set to public or unlisted. Include chapters as specified.
+•  Upload the complete source code of your application to a public or private GitHub repository.
+
+Submission Guidelines: Provide the link to your YouTube video. Provide the link to your GitHub repository.Evaluation Criteria: Functionality of the application as per the requirements. Simplicity and usability of the UI. Effective use of various text properties. Proper implementation and use of TextView, Button, ImageView, and TextInputEditText. Effective use of ConstraintLayout properties. Clarity, organization, and comments in the code. Quality of the recorded video,
